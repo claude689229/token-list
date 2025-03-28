@@ -1,0 +1,12 @@
+{
+  "chainId": 101,
+  "address": "JAbWzp7BWcusXsu7fvHV26D9oeRhAp9EqeEqwTfNokEt",
+  "symbol": "PLT",
+  "name": "Platina Token",
+  "decimals": 9,
+  "logoURI": "https://imgur.com/a/IeEafBx",
+  "tags": [
+    "utility-token"
+  ],
+  "description": "Platina Token (PLT) is a Solana-based digital asset designed for high-speed transactions, low fees, and seamless scalability. Built for efficiency and security, PLT powers a dynamic ecosystem, enabling fast transfers, trading, and utility within the Solana network."
+}
